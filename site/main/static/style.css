@@ -58,4 +58,8 @@ h1{
     .how_play__content__photo{
         display: none;
     }
+
+    .js-filter > li{
+        width: 100%;
+    }
 }
